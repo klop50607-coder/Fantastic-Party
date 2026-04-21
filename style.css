@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #87CEEB;
+    border:10px solid #87CEEB;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+p.niz {
+   background-color: #00a308;
+   padding: 7px;
+}
+
+nav {
+    background-color: #00a308;
+    text-align: center;
+}
+
+a.navigate {
+    color: white;
+    text-decoration: none;
+    margin: 40px;
+}
+
+.produkt {
+    background-color: #90EE90;
+
+}
+
+.predlog {
+    font-size:20px;
+    color:blue ;
+}
+.contact {
+     text-decoration: none;
+     border: 2px solid blue;
+     border-radius: 8px;
+     padding: 5px;
+}
